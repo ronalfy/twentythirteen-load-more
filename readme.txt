@@ -12,7 +12,7 @@ Add a "Load More" button to the bottom of your Twenty Thirteen blog homepage on 
 
 If you are using the Twenty Thirteen theme, you can use this plugin to display a "Load More" button at the bottom of your homepage.  Users can click that button to see new posts instead of waiting for a new page load.
 
-If you would like to contribute to this project, check out the project on GitHub.
+If you would like to contribute to this project, <a href="https://github.com/ronalfy/twentythirteen-load-more">check out the project on GitHub</a>.
 
 == Changelog ==
 

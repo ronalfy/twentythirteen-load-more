@@ -2,7 +2,7 @@
 /*
 Plugin Name: Twenty Thirteen Load More
 Plugin URI: http://wordpress.org/extend/plugins/twentythirteen-load-more/
-Description: Add a "Load More" button to the bottom of your TwentyThirteen blog homepage on WordPress.
+Description: Add a "Load More" button to the bottom of your Twenty Thirteen blog homepage on WordPress.
 Author: ronalfy
 Version: 1.0.0
 Requires at least: 3.5
