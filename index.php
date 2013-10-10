@@ -21,6 +21,11 @@ function ronalfy_load_more_scripts() {
 	global $wp_query;
 	if ( !is_home() ) return;
 	
+	//Detect TwentyThirteen
+	$theme = wp_get_theme();
+	$template = $theme->get_template();
+	if ( 'twentythirteen' != $template ) return;
+	
 	$max = $wp_query->max_num_pages;
 		$paged = ( get_query_var('paged') > 1 ) ? get_query_var('paged') : 1;
 	wp_enqueue_script( 'ronalfy-load-more', plugins_url( '/js/loadmore.js', __FILE__ ), array( 'jquery' ), '20131010', true );
