@@ -7,7 +7,7 @@ Author: ronalfy
 Version: 1.0.0
 Requires at least: 3.5
 Author URI: http://www.ronalfy.com
-Contributors: ronalfy, metronet
+Contributors: ronalfy
 */ 
 
 add_action( 'plugins_loaded', 'ronalfy_load_more_textdomain' );
