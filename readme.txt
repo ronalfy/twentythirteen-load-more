@@ -1,4 +1,4 @@
-=== TwentyThirteen Load More ===
+=== Twenty Thirteen Load More ===
 Contributors: ronalfy
 Tags: ajax, twentythirteen
 Requires at least: 3.5
@@ -6,11 +6,11 @@ Tested up to: 3.6.1
 License: GPLv2 or later
 Stable tag: 1.0
 
-Add a "Load More" button to the bottom of your TwentyThirteen blog homepage on WordPress.
+Add a "Load More" button to the bottom of your Twenty Thirteen blog homepage on WordPress.
 
 == Description ==
 
-If you are using the TwentyThirteen theme, you can use this plugin to display a "Load More" button at the bottom of your homepage.  Users can click that button to see new posts instead of waiting for a new page load.
+If you are using the Twenty Thirteen theme, you can use this plugin to display a "Load More" button at the bottom of your homepage.  Users can click that button to see new posts instead of waiting for a new page load.
 
 If you would like to contribute to this project, check out the project on GitHub.
 
