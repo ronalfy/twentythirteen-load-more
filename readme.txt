@@ -1,4 +1,4 @@
-=== WP Ajax Edit Comments ===
+=== TwentyThirteen Load More ===
 Contributors: ronalfy
 Tags: ajax, twentythirteen
 Requires at least: 3.5
