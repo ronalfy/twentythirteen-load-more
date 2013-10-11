@@ -4,7 +4,7 @@ Tags: ajax, twentythirteen
 Requires at least: 3.5
 Tested up to: 3.6.1
 License: GPLv2 or later
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 Add a "Load More" button to the bottom of your Twenty Thirteen blog homepage on WordPress.
 
